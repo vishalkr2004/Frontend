@@ -33,7 +33,7 @@ body{
     margin-top:50px;
 }
 .navbar{
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(2, max-content);
     align-items: center;
     justify-content: space-between;
